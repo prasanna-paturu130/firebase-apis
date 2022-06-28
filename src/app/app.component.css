@@ -1,0 +1,14 @@
+.center-form{
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* table,tr,th,td {
+    border: 2px solid green;
+    border-collapse: collapse;
+} */
+
+table {
+    width: 100%;
+  }
+  
